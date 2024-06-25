@@ -4,8 +4,7 @@
 The goal of this challenge is to predict the prices of cars using the features given in the synthetic dataset inspired by the original car prices dataset on Kaggle.The target is to obtain the Lowest MSE (Mean Squared Error) possible.
 <br></br>
 It is represented as:
-
-RMSE = $ \sqrt{{(\frac{1}{N} \sum_{i=1}^{N} (y_i - \widehat{y}_i)^2)}}$
+RMSE = $\sqrt{{(\frac{1}{N} \sum_{i=1}^{N} (y_i - \widehat{y}_i)^2)}}$
 <br></br>
 where $\hat{y}_i$ is the predicted value and $y_i$ is the original value for each instance i.
 <br></br>
