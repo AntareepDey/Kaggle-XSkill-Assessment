@@ -5,11 +5,10 @@ The goal of this challenge is to predict the prices of cars using the features g
 <br></br>
 
 It is represented as:
-RMSE = $ \sqrt{{(\frac{1}{N} \sum_{i=1}^{N} (y_i - \widehat{y}_i)^2)}} $
+RMSE = $\sqrt{{(\frac{1}{N} \sum_{i=1}^{N} (y_i - \widehat{y}_i)^2)}}$
 
 
-
-where $ \hat{y}_i $ is the predicted value and $ y_i $ is the original value for each instance i.
+where $\hat{y}_i$ is the predicted value and $y_i$ is the original value for each instance i.
 <br></br>
 
 ***My submission was able to get to a rank of 94 out of more than 14.5K submissions.*** 
